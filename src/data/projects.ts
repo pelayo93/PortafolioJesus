@@ -25,6 +25,11 @@ const projects: Project[] = [
     title: "Cotizador Criptomonedas al Instante",
     techs: ["React", "JavaScript"],
     link: "https://majestic-truffle-269319.netlify.app",
+  },
+  {
+    title: "Cotizador Criptomonedas al Instante",
+    techs: ["React", "JavaScript"],
+    link: "https://majestic-truffle-269319.netlify.app",
   }
 ];
 
