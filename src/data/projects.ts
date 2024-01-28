@@ -7,20 +7,15 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Arch Linux Package",
-    techs: ["bash"],
-    link: "https://codenanshu.in/projects/ttf-apple-fonts/",
+    title: "Pagina de tienda para Guitarras",
+    techs: ["NextJS"],
+    link: "https://guitarrala-nextjs12.vercel.app",
   },
   {
-    title: "Firstly",
-    techs: ["React Native", "JavaScript"],
-    link: "https://codenanshu.in/projects/firstly/",
-  },
-  {
-    title: "Astro / Template",
-    techs: ["Astro"],
-    link: "/"
-  },
+    title: "Busca Recetas de Bebidas",
+    techs: ["React", "JavaScript"],
+    link: "https://mellow-travesseiro-6b662f.netlify.app",
+  }
 ];
 
 export default projects;
