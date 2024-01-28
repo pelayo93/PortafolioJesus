@@ -28,7 +28,7 @@ const posts = await getCollection("posts");
     <article class="flex flex-col gap-8">
       <header class="flex w-full flex-row justify-between gap-2">
         <h3 class="text-lg text-neutral-100">
-          Selected projects ({projects.length})
+          ALgunos Proyectos ({projects.length})
         </h3>
       </header>
       {projects.length === 0 && <p>Oops, I must work^^^^^</p>}
@@ -45,13 +45,13 @@ const posts = await getCollection("posts");
       <header class="flex w-full flex-row justify-between gap-2">
         <h3 class="text-lg text-neutral-100">Contacto</h3>
       </header>
-      <p>
-        Correo <Link
+      <p>Correo<Link
           href={`mailto:${presentation.mail}`}
           label={presentation.mail}
         />
       </p>
       <p>Telefono: +58 4242532568</p>
+      <a href="/curriculum/curriculumJesusPelayo.pdf" class="hover:text-neutral-100" download>Descargar Currículum</a>
 
       <SocialLinks />
     </article>

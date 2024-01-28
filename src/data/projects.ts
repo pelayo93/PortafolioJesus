@@ -15,6 +15,16 @@ const projects: Project[] = [
     title: "Busca Recetas de Bebidas",
     techs: ["React", "JavaScript"],
     link: "https://mellow-travesseiro-6b662f.netlify.app",
+  },
+  {
+    title: "Proyecto pequeño de Presupuesto",
+    techs: ["React", "JavaScript"],
+    link: "https://peaceful-sprinkles-c8c283.netlify.app",
+  },
+  {
+    title: "Cotizador Criptomonedas al Instante",
+    techs: ["React", "JavaScript"],
+    link: "https://majestic-truffle-269319.netlify.app",
   }
 ];
 
