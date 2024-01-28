@@ -14,7 +14,7 @@ const presentation: Presentation = {
   mail: "jesuspelayo93@gmail.com",
   title: "Hola soy Jesús 👋",
   description:
-    "Hola, soy un programador Web Fronted. Apasionado por el desarrollo web, estoy listo para enfrentar nuevos desafíos y crear experiencias digitales impactantes",
+    "Hola, *soy un programador Web Fronted*. Apasionado por el desarrollo web, estoy listo para enfrentar nuevos desafíos y crear experiencias digitales impactantes",
   socials: [
      {
       label: "Github",
