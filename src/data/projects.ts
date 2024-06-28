@@ -7,6 +7,26 @@ export type Project = {
 
 const projects: Project[] = [
   {
+    title: "MacroStore",
+    techs: ["Shopify"],
+    link: "https://www.macrostore.cl",
+  },
+  {
+    title: "Freshcou",
+    techs: ["WordPress"],
+    link: "https://freshcou.cl",
+  },
+  {
+    title: "Verifyti",
+    techs: ["WordPress"],
+    link: "https://verifyti.com",
+  },
+  {
+    title: "MacroTape",
+    techs: ["WordPress"],
+    link: "https://macrotape.cl",
+  },
+  {
     title: "Pagina de tienda para Guitarras",
     techs: ["NextJS"],
     link: "https://guitarrala-nextjs12.vercel.app",
