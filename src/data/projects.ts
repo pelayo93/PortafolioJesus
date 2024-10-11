@@ -12,11 +12,6 @@ const projects: Project[] = [
     link: "https://www.macrostore.cl",
   },
   {
-    title: "Freshcou",
-    techs: ["WordPress"],
-    link: "https://freshcou.cl",
-  },
-  {
     title: "Verifyti",
     techs: ["WordPress"],
     link: "https://verifyti.com",
@@ -25,6 +20,26 @@ const projects: Project[] = [
     title: "MacroTape",
     techs: ["WordPress"],
     link: "https://macrotape.cl",
+  },
+  {
+    title: "Afrodite Perfium",
+    techs: ["Shopify"],
+    link: "https://afroditeperfium.com",
+  },
+  {
+    title: "Chile Incubadoras",
+    techs: ["WordPress"],
+    link: "https://www.chileincubadoras.cl",
+  },
+  {
+    title: "Agroavicola",
+    techs: ["WordPress"],
+    link: "https://www.agroavicola.cl",
+  },
+  {
+    title: "Macro Paper",
+    techs: ["WordPress"],
+    link: "https://rollostermico.cl",
   },
   {
     title: "Pagina de tienda para Guitarras",
@@ -45,7 +60,7 @@ const projects: Project[] = [
     title: "Cotizador Criptomonedas al Instante",
     techs: ["React", "JavaScript"],
     link: "https://majestic-truffle-269319.netlify.app",
-  }
+  },
 ];
 
 export default projects;
