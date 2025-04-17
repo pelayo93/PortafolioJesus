@@ -12,11 +12,6 @@ const projects: Project[] = [
     link: "https://www.macrostore.cl",
   },
   {
-    title: "Verifyti",
-    techs: ["WordPress"],
-    link: "https://verifyti.com",
-  },
-  {
     title: "MacroTape",
     techs: ["WordPress"],
     link: "https://macrotape.cl",
